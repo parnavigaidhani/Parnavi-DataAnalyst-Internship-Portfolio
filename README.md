@@ -7,18 +7,22 @@ It highlights customer retention, revenue trends, KPIs, and strategic insights, 
 ---
 
 ## Tasks & Deliverables
-- **Task 1 – Data Exploration**  
-  Initial dataset cleaning, descriptive statistics, and variable overview.  
-
-- **Task 2 – KPI Identification**  
+- **Task 1 – Data Exploration**
+- [Task 1 – Data Exploration](https://github.com/parnavigaidhani/retail-sales-data-cleaning)    
+  Initial dataset cleaning, descriptive statistics, and variable overview.
+ 
+- **Task 2 – KPI Identification**
+- [Task 2 – KPI Identification](https://github.com/parnavigaidhani/Task-2)
   Defined customer retention, revenue growth, and average order value metrics.  
 
-- **Task 3 – Dashboard Creation**  
+- **Task 3 – Dashboard Creation** 
+- [Task 3 – Dashboard Creation](https://github.com/parnavigaidhani/Task-3)  
   Built interactive Power BI dashboard visualizing retention, revenue, and geography.  
 
-- **Task 4 – Insights & Hypothesis Testing**  
-  Presentation deck with strategic insights and hypothesis testing summary.  
-
+- **Task 4 – Insights & Hypothesis Testing**
+- [Task 4 – Insights & Hypothesis Testing](https://github.com/parnavigaidhani/Task-4)  
+  Presentation deck with strategic insights and hypothesis testing summary.
+  
 - **Task 5 – Capstone Portfolio**  
   This master repository consolidates all tasks and deliverables.  
 
