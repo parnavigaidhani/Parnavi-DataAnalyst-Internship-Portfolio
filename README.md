@@ -12,11 +12,11 @@ It highlights customer retention, revenue trends, KPIs, and strategic insights, 
   Initial dataset cleaning, descriptive statistics, and variable overview.
  
 - **Task 2 – KPI Identification**
-- [Task 2 – KPI Identification](https://github.com/parnavigaidhani/Task-2)
+- [Task 2 – KPI Identification](https://github.com/parnavigaidhani/HousePricePrediction_EDA)
   Defined customer retention, revenue growth, and average order value metrics.  
 
 - **Task 3 – Dashboard Creation** 
-- [Task 3 – Dashboard Creation](https://github.com/parnavigaidhani/Task-3)  
+- [Task 3 – Dashboard Creation](https://github.com/parnavigaidhani/Task-3)
   Built interactive Power BI dashboard visualizing retention, revenue, and geography.  
 
 - **Task 4 – Insights & Hypothesis Testing**
